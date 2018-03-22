@@ -43,12 +43,10 @@ ul.posts li {
 }
 
 #out{
-    width: 210px;
-    text-align: center;
+    
 }
 
 .fig-pic{
-    width: 70px;
     display: inline-block;
     vertical-align: top;
     margin: 0;
