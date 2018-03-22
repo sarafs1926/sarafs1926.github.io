@@ -41,3 +41,10 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+ul.photos li {
+    display: inline-block;
+}
+figcaption {
+    text-align: center
+}
