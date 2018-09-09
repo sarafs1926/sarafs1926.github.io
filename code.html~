@@ -11,7 +11,6 @@
 	<li><a href="/">Home</a></li>
 	<li><a href="SFS_CV_0318.pdf">CV</a></li>
 	<li><a href="code.html">Code</a></li>
-        <li><a href="prelim.html">Prelims</a></li>
       </ul>
     </nav>
     <div class="container">
@@ -20,7 +19,7 @@
 
 	<p> I will be putting up some projects, this area is under construction. </p>
 	
-	<p> Here is some work from the digital half of <a href="https://www.bu.edu/academics/cas/courses/cas-py-681/">PY 681</a> class. <br> Enjoy and email me with questions! </p>
+	<p> Here are some of my arduino labs from the digital half of <a href="https://www.bu.edu/academics/cas/courses/cas-py-681/">PY 681</a> class. <br> Enjoy and email me with any questions. </p>
 
 	<p> Microcontrollers Lab 1: Basic I/O, driving an LED display, digital stopwatch and voltmeter </p>
 	<ul>
@@ -55,6 +54,7 @@
 	<li> <a href="/lab3/3.7.ino">Lab 3.7</a> </li>
 	</ul>	
 
+	<p> //////////////////////// </p> 
 	<p> 681 final project: ~ns TDC with Zynq-7000 SoC </p>
 	<p> Proposal <a href="https://docs.google.com/document/d/1fo2YF36yKyfhfmZJgmIHaqB379NLbHVJvvgx59luWfI/edit?usp=sharing">here</a></p>
 	<p> Documentation <a href="https://docs.google.com/document/d/1V_FjQhjA-HqOpVYLGVHt-iRqwSpbPZeCDH0ENV477SI/edit?usp=sharing">here</a></p>
