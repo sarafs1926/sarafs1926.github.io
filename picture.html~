@@ -19,7 +19,12 @@
       <div class="blurb">
 	<h1>Pictures</h1>
 
-	<p> I will be putting up my solutions to old Princeton prelims. </p>
+        <figure>
+          <p><img src="pulserv1.PNG"
+                  style="width:434px;height:339px;text-align:center"
+                  alt="pulserv1">
+            <figcaption>ns blue light pulser for testing SK PMTs</figcaption>
+        </figure>
 	
   </body>
   </html>
