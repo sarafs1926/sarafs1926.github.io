@@ -20,10 +20,10 @@
       <div class="blurb">
 	<h1>Teaching</h1>
 
-        <p> I am very interested to give all students opportunities to learn about physics and its practical applications. Here is a summary of my experience:</p>
+        <p> I am very interested in giving all students opportunities to learn physics and its practical applications. Here is a summary of my experience:</p>
 
-        <p> ELE 308: Electronic and Photonic Devices - Fall 2019 (Princeton, TA): In progress.  </p>
-        <p> EGR 150: Foundations of Engineering - Summer 2019 (Princeton, Instructor): This course provides a hands-on introduction to the foundational principles of engineering. It gives a project-based introduction to engineering that mixes electronics, mechanical construction, and computational data analysis, while providing a firm theoretical foundation for the project in both math and physics. In lab, students learn MATLAB, soldering, and PCB assembly when they construct an accelerometer board, which they then use to explore the kinematics of elevators, drones, and a final project of their choosing.</p>
+        <p> <b> ELE 308: Electronic and Photonic Devices - Fall 2019 (Princeton, TA):</b> Introduction to semiconductor devices centered around modern devices and technologies. Explores the physical basis of complex technologies from the perspective of solid state physics, electricity and magnetism, statistical mechanics, and quantum mechanics. Applications to be discussed include lighting, displays, computing, energy harvesting, sensing and imaging. Laboratory: fundamentals of micro- and nano-fabrication, fabrication of integrated circuits and optoelectronic devices.</p>
+        <p> <b> EGR 150: Foundations of Engineering - Summer 2019 (Princeton, Instructor):</b> This course provides a hands-on introduction to the foundational principles of engineering. It gives a project-based introduction to engineering that mixes electronics, mechanical construction, and computational data analysis, while providing a firm theoretical foundation for the project in both math and physics. In lab, students learn MATLAB, soldering, and PCB assembly when they construct an accelerometer board, which they then use to explore the kinematics of elevators, drones, and a final project of their choosing. Typical enrollment: 20 incoming freshman undergraduate students.</p>
 
   </body>
   </html>
