@@ -1,4 +1,4 @@
-!DOCTYPE html>
+<!DOCTYPE html>
 <html>
   <head>
     <title>Sara Sussman</title>
@@ -21,9 +21,9 @@
 	<h1>Teaching</h1>
 
         <p> I am very interested to give all students opportunities to learn about physics and its practical applications. Here is a summary of my experience:</p>
-        <ul>
-          <li> ELE 308: Electronic and Photonic Devices - Fall 2019 (Princeton, TA): In progress.  </li>
-          <li> EGR 150: Foundations of Engineering - Summer 2019 (Princeton, Instructor): This course provides a hands-on introduction to the foundational principles of engineering. It gives a project-based introduction to engineering that mixes electronics, mechanical construction, and computational data analysis, while providing a firm theoretical foundation for the project in both math and physics. In lab, students learn MATLAB, soldering, and PCB assembly when they construct an accelerometer board, which they then use to explore the kinematics of elevators, drones, and a final project of their choosing.</li>
+
+        <p> ELE 308: Electronic and Photonic Devices - Fall 2019 (Princeton, TA): In progress.  </p>
+        <p> EGR 150: Foundations of Engineering - Summer 2019 (Princeton, Instructor): This course provides a hands-on introduction to the foundational principles of engineering. It gives a project-based introduction to engineering that mixes electronics, mechanical construction, and computational data analysis, while providing a firm theoretical foundation for the project in both math and physics. In lab, students learn MATLAB, soldering, and PCB assembly when they construct an accelerometer board, which they then use to explore the kinematics of elevators, drones, and a final project of their choosing.</p>
 
   </body>
   </html>
