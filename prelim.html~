@@ -9,11 +9,12 @@
     <nav>
       <ul>
 	<li><a href="/">Home</a></li>
-	<li><a href="SFS_CV_0319.pdf">CV</a></li>
-	<li><a href="code.html">Code</a></li>
-        <li><a href="prelim.html">Prelims</a></li>
+	<li><a href="SFS_CV_1119.pdf">CV</a></li>
+	<li><a href="teaching.html">Teaching</a></li>
         <li><a href="picture.html">Pictures</a></li>
 	<li><a href="https://wip.princeton.edu">Women in Physics</a></li>
+	<li><a href="prelim.html">Princeton Prelims</a></li>
+        <li><a href="code.html">Misc</a></li>
       </ul>
     </nav>
     <div class="container">
