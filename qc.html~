@@ -10,17 +10,16 @@
       <ul>
 	<li><a href="/">Home</a></li>
 	<li><a href="SFS_CV_0120.pdf">CV</a></li>
-        <li><a href="qc.html">Qubit Control</a></li>
-        <li><a href="code.html">Embedded Systems</a></li>
+        <li><a href="code.html">Quantum Computing</a></li>
         <li><a href="teaching.html">Teaching</a></li>
 	<li><a href="prelim.html">Princeton Prelims</a></li>
       </ul>
     </nav>
     <div class="container">
       <div class="blurb">
-	<h1>Embedded Systems</h1>
+	<h1>Quantum Computing</h1>
 
-	<p> I am developing a few practical mini courses about embedded systems for the beginner. Please email me if you are interested in accessing the materials! </p>
+	<p> I am developing a few practical mini courses about quantum computing. Please email me if you are interested in accessing the materials! </p>
 
 	<p> 1.  <b>Arduino basics: Digital half of <a href="https://www.bu.edu/academics/cas/courses/cas-py-681/">PY 681</a></b> </p>
 
@@ -56,17 +55,29 @@
 	<li> <a href="/lab3/3.6.ino">Lab 3.6</a> </li>
 	<li> <a href="/lab3/3.7.ino">Lab 3.7</a> </li>
 	</ul>	
+	
+	<p> 2. <b>Building and verifying FPGA designs</b> </p>
 
-	<p> 2. <b>Building and verifying FPGA/SoC designs</b> </p>
-	<ul> 
-	<li> <a href="SFS_EmbeddedLinux_020720.pdf">Embedded Linux Basics</a> </li>	 
+	<p> 3. <b>FPGA/SoC-based RF data conversion and acquisition for qubit control</b>  </p>
+	<ul>
+	   <li> <a href="SFS_JournalClub_020420.pdf">FPGA and SoC-based Qubit Control</a> </li>
+          <li> <a href="SFS_EmbeddedLinux_020720.pdf">Embedded Linux Basics</a> </li>
+
+	 
 	</ul>
 
+	<p> 4. <b>Python resources for quantum computing</b>  </p>
+
+	<p> 5. <b>Important concepts in superconducting quantum computing</b>  </p>
+
+	<p> 6. <b>Microwave engineering for qubit control</b>  </p>
+
+	
      </div><!-- /.blurb -->
     </div><!-- /.container -->
     <footer>
       <ul>
-	<li><a href="mailto:sarafs@princeton.edu">email</a></li>
+	<li><a href="mailto:sarafs@bu.edu">email</a></li>
 	<li><a href="https://github.com/sarafs1926">github.com/sarafs1926</a></li>
       </ul>
     </footer>
